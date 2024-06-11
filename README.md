@@ -1,7 +1,8 @@
 # Predictive_Potential_General_Indices
 Scripts for generating results and figures for determining predictive potential of general sum/product connectivity for thermodynamic properties.
 
-File Name	Description
+**File Name	Description**
+
 **01_combined_corr_curves.m**	Generates combined correlation curves plots, grouped by experimental data, for the 6 pairs of data, highlighting the curves' peaks and intersection between two curves with highest correlation in some given alpha
 **02_good_alpha_intervals.m**	Generates 6 correlation curve plots, one for each pair of data, highlighting the alpha intervals which results in good correlation
 **03_scatter_plots.m**	Generates 6 scatter plots, one for each pair of data
